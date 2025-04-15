@@ -1,0 +1,14 @@
+pandas
+matplotlib
+numpy
+requests
+aiohttp
+dataclasses
+argparse
+bs4
+psutil
+gputil
+torch
+accelerate
+transformers
+bitsandbytes
