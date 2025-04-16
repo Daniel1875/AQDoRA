@@ -13,3 +13,5 @@ accelerate
 transformers
 bitsandbytes
 peft
+datasets
+aqlm[gpu]
