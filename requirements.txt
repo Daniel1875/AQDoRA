@@ -12,3 +12,4 @@ torch
 accelerate
 transformers
 bitsandbytes
+peft
